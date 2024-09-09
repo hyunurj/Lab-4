@@ -6,10 +6,12 @@
 ### Shell
 - A ***shell*** is a interface that allows users to communicate with kernel.  
 Users run applications and give commands through shell.
-- Source: [What is Shell?](https://www.datacamp.com/blog/what-is-shell)
 
-### *Shell* is *'an interface that allows users to communicate with operating systems'*.
-
+### CLI(Command Line Interface) vs GUI(Graphic User Interface)
+|  | CLI | GUI |
+| ----- | ----- | -----|
+| remember commands |  |
+| Keyboards | Mouse |
 ## How to use Shell?
 > For Window, install and use [Git Bash](https://git-scm.com/).  
 > For Linux/MacOS, search for "Terminal" in your apps and run.
