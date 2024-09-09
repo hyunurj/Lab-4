@@ -29,13 +29,20 @@ Users run applications and give commands through shell.
 
 #### Arguments
 
-**/**: root  
-**.**: current directory
-..                  (upper-level directory)  
-~                   (home of current user)  
-/[directory name]   (absolute path)  
-./[directory name]  (relative path)  
-../[directory name] (relative path)  
+**/**  
+root  
+**.**  
+current directory  
+**..**     
+upper-level directory  
+**~**  
+home of current user    
+**/[directory name]**  
+absolute path  
+**./[directory name]**  
+relative path  
+**../[directory name]**  
+relative path  
 
 ---
 ### options
