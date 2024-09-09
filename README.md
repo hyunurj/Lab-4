@@ -10,8 +10,11 @@ Users run applications and give commands through shell.
 ### CLI(Command Line Interface) vs GUI(Graphic User Interface)
 |  | CLI | GUI |
 | ----- | ----- | -----|
-| remember commands |  |
-| Keyboards | Mouse |
+| Should remeber commands | O | X |
+| Mostly used | Keyboards | Mouse |
+| Speed | Fast | Slow |
+| Work method | automate tasks | manual labor |
+
 ## How to use Shell?
 > For Window, install and use [Git Bash](https://git-scm.com/).  
 > For Linux/MacOS, search for "Terminal" in your apps and run.
