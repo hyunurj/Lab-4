@@ -61,6 +61,8 @@ Users run applications and give commands through shell.
 | b*.txt | All filenames that begin with the character "b" and end with the characters ".txt" |
 | Data??? | Any filename that begins with the characters "Data" followed by exactly 3 more characters |
 
+#### WARNING!!
+*Once you delete something with rm, it's gone. Before you use rm with wildcards, try
 ***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
 
