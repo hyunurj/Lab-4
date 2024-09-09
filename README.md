@@ -62,11 +62,13 @@ Users run applications and give commands through shell.
 | Data??? | Any filename that begins with the characters "Data" followed by exactly 3 more characters |
 
 #### WARNING!!
-*Once you delete something with rm, it's gone. Before you use rm with wildcards, try
-***'help'*** shows the documents included in the Git.  
-You can get help when there is something you don't know while using git
+*Once you delete something with rm, it's gone. Before you use rm with wildcards, construct your command using ls instead.*
 
-***"man'*** is used to access the manual pages for other commands  
+### Help command
 
- ***"exit'*** is used to leave the manual page viewer (like less or more) and return to the command line.
+***help*** shows information and instructions on how to use other commands
+
+***man*** is used to close a terminal or end a script. It simply logs you out or stops the program.
+
+ ***exit*** is used to close a terminal or end a script. It simply logs you out or stops the program.
 
