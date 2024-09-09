@@ -29,8 +29,8 @@ Users run applications and give commands through shell.
 
 #### Arguments
 
-/                   (root)  
-.                   (current directory)  
+**/**: root  
+**.**: current directory
 ..                  (upper-level directory)  
 ~                   (home of current user)  
 /[directory name]   (absolute path)  
