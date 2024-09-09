@@ -42,7 +42,7 @@ Users run applications and give commands through shell.
 ### options
 - l show detailed information(long format)
 - lh same as above, but size in units
-
+---
 ### Manipulation:
 
 ***cp*** copy files and directories
@@ -58,7 +58,8 @@ Users run applications and give commands through shell.
 | ----- | ----- |
 | * | All filenames |
 | g* | All filenames that begin with the character "g" |
-
+| b*.txt | All filenames that begin with the character "b" and end with the characters ".txt" |
+| Data??? | Any filename that begins with the characters "Data" followed by exactly 3 more characters |
 
 ***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
