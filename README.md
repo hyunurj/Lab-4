@@ -161,5 +161,6 @@ rm *~                     (delete all files in current working dir that end with
 You can get help when there is something you don't know while using git
 
 ***"man'*** is used to access the manual pages for other commands  
+
  ***"exit'*** is used to leave the manual page viewer (like less or more) and return to the command line.
 
