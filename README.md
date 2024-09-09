@@ -157,14 +157,9 @@ rm *~                     (delete all files in current working dir that end with
 ```
 > These are examples of ***'cp, mv, rm'***
 
-help
-***'help'*** shows the documents included in the Git.
+***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
-man
-***"man'*** is used to access the manual pages for other commands
-<hr>
-<br>
 
-exit
+***"man'*** is used to access the manual pages for other commands
  ***"exit'*** is used to leave the manual page viewer (like less or more) and return to the command line.
 
