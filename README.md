@@ -1,7 +1,11 @@
-# Shell?
-- A ***shell*** is a type of computer program called a command-line interpreter  
-- that lets Linux and Unix users control their operating systems with command-line interfaces.  
-- Shells allow users to communicate efficiently and directly with their operating systems.  
+# Lab 4
+
+## Kernel
+- A *Kernel* is the core of OS that controls and communicates with hardware resource.
+
+## Shell
+A ***shell*** is a interface that allows users to communicate with kernel.  
+Users run applications and give commands through shell.
 - Source: [What is Shell?](https://www.datacamp.com/blog/what-is-shell)
 
 ### *Shell* is *'an interface that allows users to communicate with operating systems'*.
