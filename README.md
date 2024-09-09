@@ -1,6 +1,4 @@
-# About *'Shell'*
-
-## What is Shell? 
+# Shell?
 - A ***shell*** is a type of computer program called a command-line interpreter  
 - that lets Linux and Unix users control their operating systems with command-line interfaces.  
 - Shells allow users to communicate efficiently and directly with their operating systems.  
