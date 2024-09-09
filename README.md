@@ -29,21 +29,15 @@ Users run applications and give commands through shell.
 
 #### Arguments
 
-**/**  
-root  
-**.**  
-current directory  
-**..**     
-upper-level directory  
-**~**  
-home of current user    
-**/[directory name]**  
-absolute path  
-**./[directory name]**  
-relative path  
-**../[directory name]**  
-relative path  
-
+```
+/                         (root. 최상위 경로)
+.                         (current directory)
+..                        (upper-level directory)
+~                         (home of current user. 홈 디텍토리.)
+/[directory name]         (absolute path. 절대경로)
+./[directory name]        (relative path. 상대경로)
+../[directory name]       (relative path)
+```
 ---
 ### options
 
