@@ -43,14 +43,9 @@ Users run applications and give commands through shell.
 - l show detailed information(long format)
 - lh same as above, but size in units
 
-#### ls
-| Command | Result |
-| ----- | ----- |
-| ls | List the files in the working directory |
-| ls/bin | List the files in the /bin directory (or any other directory we care to specify) |
-| ls -1 | List the files in the working directory in long format |
-| ls -1 / etc / bin | List the files in the /bin directory and the /etc directory in long format |
-| ls -la .. | List all files (even ones with names beginning with a period character, which are normally hidden) in the parent of the working directory in long format |
+### Manipulation: cp
+
+***cp*** copy files and directories.
 
 ***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
