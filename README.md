@@ -15,24 +15,6 @@ Users run applications and give commands through shell.
 | Speed | Fast | Slow |
 | Work method | automate tasks | manual labor |
 
-## How to use Shell?
-> For Window, install and use [Git Bash](https://git-scm.com/).  
-> For Linux/MacOS, search for "Terminal" in your apps and run.
-
-<br>
-
-## Shell command
-```
-/                         (root. 최상위 경로)
-.                         (current directory)
-..                        (upper-level directory)
-~                         (home of current user. 홈 디텍토리.)
-/[directory name]         (absolute path. 절대경로)
-./[directory name]        (relative path. 상대경로)
-../[directory name]       (relative path)
-```
-<hr>
-
 ```
 $ pwd
 ```
@@ -54,6 +36,18 @@ $ ls
 <br>
 
 ```
+
+## Shell command
+```
+/                         (root. 최상위 경로)
+.                         (current directory)
+..                        (upper-level directory)
+~                         (home of current user. 홈 디텍토리.)
+/[directory name]         (absolute path. 절대경로)
+./[directory name]        (relative path. 상대경로)
+../[directory name]       (relative path)
+```
+
 
 ***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
