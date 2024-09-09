@@ -156,28 +156,15 @@ rm *~                     (delete all files in current working dir that end with
                            Using this command will clean them out of a dir.)
 ```
 > These are examples of ***'cp, mv, rm'***
-<hr>
-<br>
 
-```
 help
-```
-> ***'help'*** shows the documents included in the Git.  
-> You can get help when there is something you don't know while using git
-<hr>
-<br>
-
-```
+***'help'*** shows the documents included in the Git.
+You can get help when there is something you don't know while using git
 man
-```
-> ***"man'*** is used to access the manual pages for other commands
+***"man'*** is used to access the manual pages for other commands
 <hr>
 <br>
 
-```
 exit
-```
-> ***"exit'*** is used to leave the manual page viewer (like less or more) and return to the command line.
-<hr>
-<br>
+ ***"exit'*** is used to leave the manual page viewer (like less or more) and return to the command line.
 
