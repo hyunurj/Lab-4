@@ -4,7 +4,7 @@
 - A *Kernel* is the core of OS that controls and communicates with hardware resource.
 
 ### Shell
-A ***shell*** is a interface that allows users to communicate with kernel.  
+- A ***shell*** is a interface that allows users to communicate with kernel.  
 Users run applications and give commands through shell.
 - Source: [What is Shell?](https://www.datacamp.com/blog/what-is-shell)
 
