@@ -15,10 +15,12 @@ Users run applications and give commands through shell.
 | Speed | Fast | Slow |
 | Work method | automate tasks | manual labor |
 
+---
 ### Shell command: pwd
 
 ***pwd*** shows the current path in a hierarchical directory
 
+---
 ### Shell command: cd & ls
   
 ***cd*** changes directory
@@ -35,6 +37,7 @@ Users run applications and give commands through shell.
 ./[directory name]  (relative path)
 ../[directory name] (relative path)
 
+---
 ### options
 
 ***'help'*** shows the documents included in the Git.  
