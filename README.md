@@ -4,7 +4,7 @@
 - Shells allow users to communicate efficiently and directly with their operating systems.  
 - Source: [What is Shell?](https://www.datacamp.com/blog/what-is-shell)
 
-### <mark> *Shell* is *'an interface that allows users to communicate with operating systems'*. </mark>
+### *Shell* is *'an interface that allows users to communicate with operating systems'*.
 
 ## How to use Shell?
 > For Window, install and use [Git Bash](https://git-scm.com/).  
