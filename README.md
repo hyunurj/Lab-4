@@ -43,9 +43,22 @@ Users run applications and give commands through shell.
 - l show detailed information(long format)
 - lh same as above, but size in units
 
-### Manipulation: cp
+### Manipulation:
 
-***cp*** copy files and directories.
+***cp*** copy files and directories
+
+***mv*** move files and directories or rename them
+
+***rm*** delete files and directories *permantely and irreversevely*
+
+***mkdir*** makes a new directory
+
+***Wildcards***
+| Pattern | Matches |
+| ----- | ----- |
+| * | All filenames |
+| g* | All filenames that begin with the character "g" |
+
 
 ***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
