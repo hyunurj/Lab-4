@@ -40,6 +40,10 @@ Users run applications and give commands through shell.
 ```
 ---
 ### options
+- l show detailed information(long format)
+- lh same as above, but size in units
+
+
 
 ***'help'*** shows the documents included in the Git.  
 You can get help when there is something you don't know while using git
